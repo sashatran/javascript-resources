@@ -9,6 +9,8 @@
 
 [Javascript Essentials - Udemy](https://www.udemy.com/javascript-essentials/)
 
+[Introduction to Javascript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
+
 
 ### Books
 [Eloquent Javascript](https://eloquentjavascript.net/)
