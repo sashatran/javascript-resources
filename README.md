@@ -13,6 +13,8 @@
 ### Books
 [Eloquent Javascript](https://eloquentjavascript.net/)
 
+[Javascript: The Good Parts ](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+
 ### Youtube
 [JavaScript Crash Course For Beginners - TraversyMedia](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 
